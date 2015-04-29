@@ -1,0 +1,45 @@
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\bin\Debug\ConnectFourGame.exe.config
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\bin\Debug\ConnectFourGame.exe
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\bin\Debug\ConnectFourGame.pdb
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.csprojResolveAssemblyReference.cache
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\MainWindow.baml
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\Piece.baml
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\MainWindow.g.cs
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\Piece.g.cs
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\App.g.cs
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame_MarkupCompile.cache
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.g.resources
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.Properties.Resources.resources
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.csproj.GenerateResource.Cache
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.exe
+c:\users\ivo nunes\documents\visual studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\bin\Debug\ConnectFourGame.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\bin\Debug\ConnectFourGame.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\bin\Debug\ConnectFourGame.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\MainWindow.baml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\Piece.baml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\MainWindow.g.cs
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\Piece.g.cs
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\App.g.cs
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame_MarkupCompile.cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.g.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.Properties.Resources.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\bin\Debug\ConnectFourGame.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\bin\Debug\ConnectFourGame.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\bin\Debug\ConnectFourGame.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\MainWindow.baml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\Piece.baml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\MainWindow.g.cs
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\Piece.g.cs
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\App.g.cs
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame_MarkupCompile.cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.g.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.Properties.Resources.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\ConnectFourGame\ConnectFourGame\ConnectFourGame\obj\Debug\ConnectFourGame.csproj.GenerateResource.Cache
